@@ -37,3 +37,4 @@ Overall, the Personal Portfolio Webpage serves as an excellent beginner-level fr
 
 # OUTPUT
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/fa7a59c1-6134-4a02-b84f-6f3c21241992" />
